@@ -10,7 +10,7 @@ Do qualifying gaps, race pace gaps, and head-to-head win rates against teammates
 
 Spearman rank correlations trend in the expected directions but largely fail to reach significance at n=12. Race pace gap shows the strongest association (rho = -0.57, p = 0.053). Sensitivity analysis reveals that removing rookie-versus-rookie pairings (Schumacher/Mazepin) shifts all primary correlations to significance, indicating the signal is dominated by benchmark quality rather than rookie talent.
 
-Full writeup: [Substack link]
+Full writeup: [https://formulasteele.substack.com/p/the-formula-1-rookie-paradox]
 
 ## Project Structure
 
